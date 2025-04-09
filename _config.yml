@@ -1,11 +1,11 @@
-# Welcome to Jekyll!
+# Welcome to Baixin‘s Blog!
 #
 # About Theme
 #
 # Yet another theme for elegant writers with modern flat style and beautiful
 # night/dark mode.
 #
-# Website: https://github.com/jeffreytse/jekyll-theme-yat
+# 感谢原作者：Website: https://github.com/jeffreytse/jekyll-theme-yat
 #
 # You can do anything you want, including projects for your clients, as long
 # as you mention an attribution back (credit links in footer or project).
@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: 我的博客 My Blog
+# email: your-email@domain.com
+author: BCLee
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,7 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2017-2025 {BCLee}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -74,6 +74,7 @@ yat:
 
 # If you want to change site language, you can set lang option
 # lang: "en"  # default lang is en
+lang: zh-CN
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -189,6 +190,7 @@ yat:
 #   image_width: 38.2%      # Image default width
 #   image_height: 160px     # Image default height
 #   text_size: 350          # Words default size
+text_size: 400
 
 # Pagination setting
 # paginate: 5
